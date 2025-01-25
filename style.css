@@ -1,0 +1,25 @@
+body {
+    justify-content: center;
+    display:flex;
+}
+
+.container {
+    text-align: center;
+    width: 200px;
+    height: 350px;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.log {
+    text-align: left;
+}
+
+button {
+    margin: 5px;
+    background-color: #ADD8E6;
+    border-radius: 5px;
+    margin-top: 15px;
+}
